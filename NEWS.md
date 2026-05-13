@@ -1,3 +1,7 @@
+# PrintSchedule 2026.5.1
+
+Updated text on landing page for a slightly more humane touch.
+
 # PrintSchedule 2026.4.6
 
 Alt på dansk.

@@ -49,11 +49,11 @@ ui <- shiny::fluidPage(
   shiny::wellPanel(
     shiny::p(
       tags$b("Tip:"), "Statisk visning — husk at tjekke for opdateringer i din kalender. ",
-      "Lavet af Andreas — se mere på ",
-      shiny::a("GitHub", href = "https://github.com/agdamsbo/PrintSchedule",
+      "Lavet af Andreas — ",
+      shiny::a("se mere her (link)", href = "https://github.com/agdamsbo/PrintSchedule",
                target = "_blank", rel = "noopener noreferrer"), ".",
       tags$br(),
-      tags$small("Brug på eget ansvar. Programmet leveres uden garanti.")
+      tags$small("Brug på eget ansvar. Jeg har gjort mig umage, men giver ingen garanti. Skriv til mig, hvis noget ikke virker, så det kan blive rettet!")
     )
   ),
 
