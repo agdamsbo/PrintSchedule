@@ -6,6 +6,9 @@ Sys.setenv(TZ = "Europe/Copenhagen")
 ui <- shiny::fluidPage(
   title = "Udskriv arbejdsplan",
   shiny::tags$head(
+    shiny::HTML(
+             '<script defer src="https://stats.freesearchr.org/script.js" data-website-id="eb207a4c-6ab3-495e-8c91-ea2eabd5da3b"></script>'
+           ),
     shiny::tags$link(
       href = "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap",
       rel = "stylesheet"
