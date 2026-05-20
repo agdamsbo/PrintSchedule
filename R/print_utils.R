@@ -83,7 +83,7 @@ print_events <- function(data,
       generate_colors(n = length(cats), palette = palette),
       cats
     ),
-    source_caption = "Printet fra 'agdamsbo.github.io/PrintSchedule'"
+    source_caption = "Printet fra 'github.com/agdamsbo/PrintSchedule'"
   ))
 }
 
