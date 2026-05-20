@@ -1,3 +1,7 @@
+# PrintSchedule 2026.5.2
+
+Updated source reference on print.
+
 # PrintSchedule 2026.5.1
 
 Updated text on landing page for a slightly more humane touch.
