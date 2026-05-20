@@ -20,6 +20,8 @@ Imports:
     viridisLite
 Suggests:
     rsconnect,
-    shinylive
+    shinylive,
+    here,
+    keyring
 URL: https://github.com/agdamsbo/print_schedule
 BugReports: https://github.com/agdamsbo/print_schedule/issues
